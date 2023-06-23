@@ -1,5 +1,5 @@
 // Mensagem indicando a autoria do código
-System.out.println("Autor: Arthur Duarte Alves Cruz, Cruso: Analise e desenvolvimemtp de sistemas, Matrícula: 202213336 ");
+System.out.println("Autor: Arthur Duarte Alves Cruz, Cruso: Analise e desenvolvimemtp de sistemas, Matrícula: ---------- ");
 
 // Criação da nova classe PersonagemFadinha
 class PersonagemFadinha extends Personagem {
